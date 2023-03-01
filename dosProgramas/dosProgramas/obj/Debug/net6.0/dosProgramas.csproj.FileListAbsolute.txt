@@ -1,0 +1,15 @@
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\bin\Debug\net6.0\dosProgramas.exe
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\bin\Debug\net6.0\dosProgramas.deps.json
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\bin\Debug\net6.0\dosProgramas.runtimeconfig.json
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\bin\Debug\net6.0\dosProgramas.dll
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\bin\Debug\net6.0\dosProgramas.pdb
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\obj\Debug\net6.0\dosProgramas.csproj.AssemblyReference.cache
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\obj\Debug\net6.0\dosProgramas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\obj\Debug\net6.0\dosProgramas.AssemblyInfoInputs.cache
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\obj\Debug\net6.0\dosProgramas.AssemblyInfo.cs
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\obj\Debug\net6.0\dosProgramas.csproj.CoreCompileInputs.cache
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\obj\Debug\net6.0\dosProgramas.dll
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\obj\Debug\net6.0\refint\dosProgramas.dll
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\obj\Debug\net6.0\dosProgramas.pdb
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\obj\Debug\net6.0\dosProgramas.genruntimeconfig.cache
+C:\Users\Ek Latino\source\repos\dosProgramas\dosProgramas\obj\Debug\net6.0\ref\dosProgramas.dll
